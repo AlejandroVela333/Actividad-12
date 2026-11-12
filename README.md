@@ -36,9 +36,9 @@ An Internet connection is required when the browser does not already have the CD
 
 ## GitHub
 
-Expected repository URL: <https://github.com/AlejandroVela333/ChuckJokesVue>
+Repository URL: <https://github.com/AlejandroVela333/Actividad-12>
 
-Repository creation and publication are pending because the remote repository does not exist yet.
+Repository publication is pending.
 
 ## Evidence
 

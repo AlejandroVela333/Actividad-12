@@ -44,9 +44,9 @@ La captura del repositorio se agregará después de crear y publicar el reposito
 
 ## GitHub
 
-URL esperada: <https://github.com/AlejandroVela333/ChuckJokesVue>
+URL del repositorio: <https://github.com/AlejandroVela333/Actividad-12>
 
-Estado actual: pendiente de creación manual del repositorio vacío.
+Estado actual: pendiente de publicación.
 
 ## Conclusion
 
