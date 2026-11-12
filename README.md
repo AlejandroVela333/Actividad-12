@@ -38,7 +38,7 @@ An Internet connection is required when the browser does not already have the CD
 
 Repository URL: <https://github.com/AlejandroVela333/Actividad-12>
 
-Repository publication is pending.
+Published successfully on GitHub.
 
 ## Evidence
 
@@ -48,5 +48,6 @@ Real screenshots are stored in `docs/evidencias/`:
 - `02_vscode_structure.png`
 - `03_vfor_code.png`
 - `04_vue_instance.png`
+- `05_github_repository.png`
 
-The GitHub screenshot will be added only after the repository exists and has been published.
+The GitHub screenshot documents the published `Actividad-12` repository.

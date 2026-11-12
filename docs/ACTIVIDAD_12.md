@@ -40,13 +40,15 @@ La instancia de Vue contiene el arreglo con las cinco frases oficiales.
 
 ### GitHub repository
 
-La captura del repositorio se agregará después de crear y publicar el repositorio remoto. No se incluye una evidencia simulada.
+![GitHub repository](evidencias/05_github_repository.png)
+
+La captura muestra el repositorio `Actividad-12` publicado en la cuenta `AlejandroVela333`, junto con los archivos principales del proyecto.
 
 ## GitHub
 
 URL del repositorio: <https://github.com/AlejandroVela333/Actividad-12>
 
-Estado actual: pendiente de publicación.
+Estado actual: publicado correctamente en GitHub.
 
 ## Conclusion
 
